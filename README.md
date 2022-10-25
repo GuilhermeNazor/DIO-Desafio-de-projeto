@@ -1,2 +1,3 @@
-# DIO-Desafio-de-projeto
-Desafio sobre git/github 
+# DIO-Desafio de Projeto  🐦
+Desafio sobre Git/Github
+## Anotações posteriores e organização de pastas
